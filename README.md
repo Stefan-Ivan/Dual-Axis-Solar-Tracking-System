@@ -1,6 +1,6 @@
-A Solar Panel that moves according to the position of the Sun or other sources of light.
-The system moves the panel both vertically and horizontally. 
-The movement logic is based on the following flowcharts:
+A Solar Panel that moves according to the position of the Sun or other sources of light.  
+The system moves the panel both vertically and horizontally.  
+The movement logic is based on the following flowcharts:  
 <table align="center">
 <tr>
   <td align="center">
