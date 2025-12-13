@@ -24,7 +24,7 @@ The circuit has the following structure:
 <tr>
   <td align="center">
   <img src="images/Circuit Schematic/CIrcuit.PNG"><br>
-  Circuit Schematic  
+  <p> Circuit Schematic </p>
   </td>
 </tr>
 
