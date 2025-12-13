@@ -4,15 +4,15 @@ The movement logic is based on the following flowcharts:
 <table align="center">
 <tr>
   <td align="center">
-  <img src="images/Flowcharts/FlowChart_Vertical.png" width="250"><br>
+  <img src="images/Flowcharts/FlowChart_Vertical.png" width="350"><br>
   Vertical Flowchart  
   </td>
     <td align="center">
-  <img src="images/Flowcharts/FlowChart-Circuit.png" width="250"><br>
+  <img src="images/Flowcharts/FlowChart-Circuit.png" width="350"><br>
   Circuit Flowchart  
   </td>
     <td align="center">
-  <img src="images/Flowcharts/FlowChart_Horizontal.png" width="250"><br>
+  <img src="images/Flowcharts/FlowChart_Horizontal.png" width="350"><br>
   Horizontal Flowchart  
   </td>
 </tr>  
