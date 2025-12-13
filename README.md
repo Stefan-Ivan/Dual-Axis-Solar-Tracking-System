@@ -29,11 +29,11 @@ And the real-life structure is presented below:
 <table align="center">
 <tr>
   <td align="center">
-  <img src="images/Circuit Assembly/Full_circuit_front.jpg" width="400"><br>
+  <img src="images/Circuit Assembly/Full_circuit_front.jpg" width="500"><br>
   Front-side of the complete circuit
   </td>
     <td align="center">
-  <img src="images/Circuit Assembly/Full_circuit_back.jpg" width="400"><br>
+  <img src="images/Circuit Assembly/Full_circuit_back.jpg" width="500"><br>
   Back-side of the complete circuit  
   </td>
 </tr>  
