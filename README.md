@@ -39,3 +39,10 @@ And the real-life structure is presented below:
 </tr>  
 </table>
 
+After complete assembly and testing (see "Testing" folder inside the repo) we did the experiment and the results are found below:
+<div align = "center">
+  <img src = "images/results/Results.png">
+  <p>Circuit Assembly</p>
+</div>
+
+Final conclusion: A dual-axis solar-tracking device does indeed increase the output power of a solar panel and also has the ability to fix problems that are common with fixed solar panels, such as cell shadowing.
