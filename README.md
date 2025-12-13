@@ -41,7 +41,7 @@ And the real-life structure is presented below:
 
 After complete assembly and testing (see "Testing" folder inside the repo) we did the experiment and the results are found below:
 <div align = "center">
-  <img src = "images/results/Results.png">
+  <img src = "results/Results.png">
   <p>Circuit Assembly</p>
 </div>
 
