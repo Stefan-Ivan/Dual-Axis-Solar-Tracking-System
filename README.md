@@ -17,8 +17,10 @@ The movement logic is based on the following flowcharts:
   Horizontal Flowchart  
   </td>
 </tr>  
+</table>
+
 The goal of the Dual-Axis Solar Tracking System is to increase the power output of the Solar Panel attached, in comparison with a fixed one.  
-The circuit has the following structure:
+The circuit has the following structure:  
 <td align="center">
   <img src="images/Circuit Schematic/Circuit.PNG"><br>
   Circuit Schematic  
