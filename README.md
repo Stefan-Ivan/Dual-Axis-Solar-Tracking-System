@@ -1,3 +1,4 @@
+#Arduino-based Dual-Axis Solar Tracking System
 An Arduino-based, Solar Tracking device that makes a Solar Panel follow the position of the Sun or other sources of light.  
 The system moves the panel both vertically and horizontally, by taking analog information from 4 LDRs (all 4 cardinal directions) and converting them into digital values that are later used for servomotors' movement.
 The movement logic is based on the following flowcharts:  
