@@ -11,7 +11,6 @@ The movement logic is based on the following flowcharts:
   <img src="images/Flowcharts/FlowChart-Circuit.png" width="250"><br>
   Circuit Flowchart  
   </td>
-  </td>
     <td align="center">
   <img src="images/Flowcharts/FlowChart_Horizontal.png" width="250"><br>
   Horizontal Flowchart  
@@ -25,4 +24,18 @@ The circuit has the following structure:
   <img src = "images/Circuit Schematic/CIrcuit.PNG">
   <p>Circuit Assembly</p>
 </div>
+
+And the real-life structure is presented below:
+<table align="center">
+<tr>
+  <td align="center">
+  <img src="images/Circuit Assembly/Full_circuit_front.jpg" width="250"><br>
+  Front-side of the complete circuit
+  </td>
+    <td align="center">
+  <img src="images/Circuit Assembly/Full_circuit_back.jpg" width="250"><br>
+  Back-side of the complete circuit  
+  </td>
+</tr>  
+</table>
 
